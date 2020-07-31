@@ -1,13 +1,3 @@
-{
-"companyName": "DefaultCompany",
-"productName": "Test_WebGl_",
-"dataUrl": "Build.data.unityweb",
-"wasmCodeUrl": "Build.wasm.code.unityweb",
-"wasmFrameworkUrl": "Build.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
-"webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:19e0527b539c59d2d1fbc1ca2877a3540c4d5a9831dfac586a39ceb0b83069fe
+size 432
